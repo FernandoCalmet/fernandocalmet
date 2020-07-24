@@ -1,3 +1,5 @@
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+
 ![Hi there!](https://github.com/FernandoCalmet/fernandocalmet/blob/master/pixel-mona-heart.gif)
 <!--
 **FernandoCalmet/fernandocalmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
