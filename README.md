@@ -1,11 +1,10 @@
 ![top_image](https://github.com/FernandoCalmet/fernandocalmet/blob/master/git_bg.png)
 
-![Hi there!](https://github.com/FernandoCalmet/fernandocalmet/blob/master/pixel-mona-heart.gif) Hi there!
+![Hi there!](https://github.com/FernandoCalmet/fernandocalmet/blob/master/pixel-mona-heart.gif) Hi there 👋
 
-## 🔵 You can catch me on:
+## 🔗 You can catch me on:
 
 - [Ko-Fi](https://ko-fi.com/fernandocalmet)
-- [Github](https://github.com/fernandocalmet)
   
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
 <!--
