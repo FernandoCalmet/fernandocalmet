@@ -1,7 +1,5 @@
 ![top_image](https://github.com/FernandoCalmet/fernandocalmet/blob/master/bg.png)
 
-![Hi there!](https://github.com/FernandoCalmet/fernandocalmet/blob/master/pixel-mona-heart.gif)
-
 ## 🔵 What you're gonna find
 
 This is the place for my side projects, learning path and contributions to the community. Feel free to review, fork, star and issue any repository. Feedback is always welcome!
@@ -10,7 +8,7 @@ This is the place for my side projects, learning path and contributions to the c
 
 - [Ko-Fi](https://ko-fi.com/fernandocalmet)
   
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI) ![Hi there!](https://github.com/FernandoCalmet/fernandocalmet/blob/master/pixel-mona-heart.gif)
 <!--
 **FernandoCalmet/fernandocalmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
