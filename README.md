@@ -1,4 +1,4 @@
-![top_image](/gitbg.png)
+![top_image](/git_bg.png)
 
 ![Hi there!](https://github.com/FernandoCalmet/fernandocalmet/blob/master/pixel-mona-heart.gif) Hi there!
 
