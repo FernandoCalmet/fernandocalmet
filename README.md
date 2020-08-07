@@ -1,4 +1,4 @@
-![top_image](https://github.com/FernandoCalmet/fernandocalmet/blob/master/git_bg.png)
+![top_image](https://github.com/FernandoCalmet/fernandocalmet/blob/master/gitbg.png)
 
 <img src="https://github.com/FernandoCalmet/fernandocalmet/blob/master/pixel-mona-heart.gif" width="64" height="64"> Hi there 👋
 
