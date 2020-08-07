@@ -2,11 +2,11 @@
 
 <img src="https://github.com/FernandoCalmet/fernandocalmet/blob/master/pixel-mona-heart.gif" width="64" height="64"> Hi there!
 
-## 🟢 What you're gonna find
+## 🔹 What you're gonna find
 
 This is the place for my side projects, learning path and contributions to the community. Feel free to review, fork, star and issue any repository. Feedback is always welcome!
 
-## 🟢 You can catch me on:
+## 🔹 You can catch me on:
 
 - [Ko-Fi](https://ko-fi.com/fernandocalmet)
   
