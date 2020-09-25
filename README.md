@@ -1,24 +1,15 @@
 ![top_image](https://github.com/FernandoCalmet/fernandocalmet/blob/master/gitbg.png)
 
-<img src="https://github.com/FernandoCalmet/fernandocalmet/blob/master/pixel-mona-heart.gif" width="64" height="64"> Hi there 👋
+Hola! 👋
 
-## ✨ What you're gonna find
+## :sparkles: Interés
 
-This is the place for my side projects, learning path and contributions to the community. Feel free to review, fork, star and issue any repository. Feedback is always welcome!
+Mi nombre es Fernando Calmet. Soy apasionado por el aprendizaje y desarrollo de software.
 
-[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T41JKMI)
-<!--
-**FernandoCalmet/fernandocalmet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## :octocat: Mi Github
 
-Here are some ideas to get you started:
+Mis repositorios son un reflejo de los temas y practicas que voy realizando durante mi formación profesional, los cuales comparto para que otras personas que tengan las mismas aspiraciones puedan darle uso de la misma manera.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- ### Hi there 👋
--->
+<a href="https://github.com/fernandocalmet"><img src="https://github.com/FernandoCalmet/fernandocalmet/blob/master/pixel-mona-heart.gif" width="64" height="64"> Sigueme en Github!</a>
+
+<p>Si te gustan mis aportes no olvides regalarme una estrellita a los repositorios de tu preferencia, gracias😄</p>
