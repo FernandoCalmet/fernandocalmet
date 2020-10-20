@@ -1,15 +1,14 @@
-![top_image](https://github.com/FernandoCalmet/fernandocalmet/blob/master/gitbg.png)
+## Hola 👋, mi nombre es Fernando Calmet
 
-Hola! 👋
+![Profile views](https://gpvc.arturio.dev/fernandocalmet)
+![https://github.com/fernandocalmet](https://img.shields.io/static/v1?url=https://github.com/fernandocalmet&label=Github&message=FernandoCalmet&color=blue?style=flat&logo=github)
+![https://linkedin.com/in/fernandocalmet](https://img.shields.io/static/v1?url=https://linkedin.com/in/fernandocalmet&label=LinkedIn&message=FernandoCalmet&color=blue?style=flat&logo=linkedin)
+![https://ko-fi.com/fernandocalmet](https://img.shields.io/static/v1?url=https://ko-fi.com/fernandocalmet&label=KoFi&message=FernandoCalmet&color=blue?style=flat&logo=ko-fi)
 
-## :sparkles: Interés
+### Self-learning software engineering through research & development
 
-Mi nombre es Fernando Calmet. Soy apasionado por el aprendizaje y desarrollo de software.
+Soy apasionado por el aprendizaje y desarrollo de habilidades en ingeniería de software
 
-## :octocat: Mi Github
+Habilidades: JAVA / CSHARP / PHP / NODEJS
 
-Mis repositorios son un reflejo de los temas y practicas que voy realizando durante mi formación profesional, los cuales comparto para que otras personas que tengan las mismas aspiraciones puedan darle uso de la misma manera.
-
-<a href="https://github.com/fernandocalmet"><img src="https://github.com/FernandoCalmet/fernandocalmet/blob/master/pixel-mona-heart.gif" width="64" height="64"> Sigueme en Github!</a>
-
-<p>Si te gustan mis aportes no olvides regalarme una estrellita a los repositorios de tu preferencia, gracias😄</p>
+![Gracias](/pixel-mona-heart.gif)
