@@ -11,4 +11,6 @@ Soy apasionado por el aprendizaje y desarrollo de habilidades en ingeniería de 
 
 Habilidades: JAVA / CSHARP / PHP / NODEJS
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandocalmet&show_icons=true)
+
 ![Gracias](/pixel-mona-heart.gif)
