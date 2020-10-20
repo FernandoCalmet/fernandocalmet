@@ -1,9 +1,9 @@
 # Hola 👋, mi nombre es Fernando
 
 ![Profile views](https://gpvc.arturio.dev/fernandocalmet)
-![https://github.com/fernandocalmet](https://img.shields.io/static/v1?label=Github&message=FernandoCalmet&color=orange?style=social&logo=github)
-![https://linkedin.com/in/fernandocalmet](https://img.shields.io/static/v1?label=LinkedIn&message=FernandoCalmet&color=blue?style=social&logo=linkedin)
-![https://ko-fi.com/fernandocalmet](https://img.shields.io/static/v1?fernandocalmet&label=KoFi&message=FernandoCalmet&color=red?style=social&logo=ko-fi)
+[![https://github.com/fernandocalmet](https://img.shields.io/static/v1?label=Github&message=FernandoCalmet&color=orange?style=social&logo=github)](https://github.com/fernandocalmet)
+[![https://linkedin.com/in/fernandocalmet](https://img.shields.io/static/v1?label=LinkedIn&message=FernandoCalmet&color=blue?style=social&logo=linkedin)](https://linkedin.com/in/fernandocalmet)
+[![https://ko-fi.com/fernandocalmet](https://img.shields.io/static/v1?fernandocalmet&label=KoFi&message=FernandoCalmet&color=red?style=social&logo=ko-fi)](https://ko-fi.com/fernandocalmet)
 
 ## Self-learning software engineering through research & development
 
