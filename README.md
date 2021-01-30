@@ -11,4 +11,4 @@ Soy apasionado por el aprendizaje y desarrollo de habilidades en ingeniería de 
 
 <img src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/pixel-mona-heart.gif" width="24" height="24" href="https://github.com/fernandocalmet"> Habilidades destacadas en: `JAVA` / `CSHARP` / `PHP`
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandocalmet&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandocalmet&show_icons=true&hide=prs,issues&theme=tokyonight)
