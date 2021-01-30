@@ -9,17 +9,19 @@
 
 Soy apasionado por el aprendizaje y desarrollo de habilidades en ingeniería de software
 
-<img src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/pixel-mona-heart.gif" width="24" height="24" href="https://github.com/fernandocalmet"> Habilidades en desarrollo:
+<img src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/img/pixel-mona-heart.gif" width="24" height="24" href="https://github.com/fernandocalmet"> Habilidades en desarrollo:
 
 ### Backend
 
-- Java
-- CSharp
-- PHP
+<div align="left">
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/img/java-original-wordmark.svg" alt="Java" height="50" />
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/img/csharp-original.svg" alt="CSharp" height="50" />
+  <img style="margin: 10px" src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/img/php-original.svg" alt="PHP" height="50" />
+</div>
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandocalmet&show_icons=true&hide=prs,issues&theme=tokyonight)
 
-<div align="center">
+<div align="left">
   <a href="https://www.buymeacoffee.com/fernandocalmet" target="_blank" style="display: inline-block;">
     <img src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square" align="center"/>
   </a>
