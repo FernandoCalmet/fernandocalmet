@@ -7,13 +7,11 @@
 
 ## Self-learning software engineering through research & development
 
-Soy apasionado por el aprendizaje y desarrollo de habilidades en ingeniería de software
+<img src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/img/pixel-mona-heart.gif" width="24" height="24" href="https://github.com/fernandocalmet"> Soy apasionado por el aprendizaje y desarrollo de habilidades en ingeniería de software
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandocalmet&show_icons=true&hide=prs,issues&theme=tokyonight)
 
-<img src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/img/pixel-mona-heart.gif" width="24" height="24" href="https://github.com/fernandocalmet"> Habilidades en desarrollo:
-
-### Backend
+### Lenguajes principales
 
 <div align="left">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/svg/java-original-wordmark.svg" alt="Java" height="50" />
