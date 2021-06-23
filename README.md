@@ -1,4 +1,4 @@
-# Hola 👋, mi nombre es Fernando
+# Hello 👋, my name is Fernando
 
 ![Profile views](https://gpvc.arturio.dev/fernandocalmet)
 [![https://github.com/fernandocalmet](https://img.shields.io/static/v1?label=Github&message=FernandoCalmet&color=orange?style=social&logo=github)](https://github.com/fernandocalmet)
@@ -7,11 +7,11 @@
 
 ## Self-learning software engineering through research & development
 
-<img src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/img/pixel-mona-heart.gif" width="24" height="24" href="https://github.com/fernandocalmet"> Soy apasionado por el aprendizaje y desarrollo de habilidades en ingeniería de software
+<img src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/img/pixel-mona-heart.gif" width="24" height="24" href="https://github.com/fernandocalmet"> I'm passionate about learning and developing skills in software engineering
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandocalmet&show_icons=true&hide=prs,issues&theme=tokyonight)
 
-### Lenguajes principales
+### Main Skills
 
 <div align="left">
   <img style="margin: 10px" src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/svg/java-original-wordmark.svg" alt="Java" height="50" />
