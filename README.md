@@ -2,7 +2,7 @@
 
 <p align="center"> 
  <a href="https://ko-fi.com/fernandocalmet" alt="fernando's kofi">
-   <img src="https://img.shields.io/badge/-@fernandocalmet-%231DA1F2?style=flat-square&logo=twitter&logoColor=ff5f5f" />
+   <img src="https://img.shields.io/badge/-@fernandocalmet-%231DA1F2?style=flat-square&logo=kofi&logoColor=ff5f5f" />
  </a>
  <a href="https://github.com/fernandocalmet" alt="fernando's github">
    <img src="https://img.shields.io/badge/-@fernandocalmet-%23181717?style=flat-square&logo=github" />
@@ -14,7 +14,7 @@
    <img src="https://img.shields.io/badge/khanakat.com-brightgreen?style=flat-square" />
  </a>
  <a>
-   <img src="https://komarev.com/ghpvc/?username=fernandocalmet&color=ff69b4&style=flat-square" />
+   <img src="https://gpvc.arturio.dev/fernandocalmet" />
  </a>
 </p>
 
