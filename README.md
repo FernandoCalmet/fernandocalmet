@@ -18,16 +18,46 @@
  </a>
 </p>
 
-## Self-learning software engineering through research & development
+> I'am system engineer specializing in building Web Applications. I love building applications following Clean Architecture & SOLID principles.
 
-<img src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/img/pixel-mona-heart.gif" width="24" height="24" href="https://github.com/fernandocalmet"> I'm passionate about learning and developing skills in software engineering
+> <img src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/img/pixel-mona-heart.gif" width="24" height="24" href="https://github.com/fernandocalmet"> I'm passionate about learning and developing skills in software engineering.
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fernandocalmet&show_icons=true&hide=prs,issues&theme=tokyonight)
+#### Trivia
+- 📝 I blog here: https://khanakat.com/
+- 📫 Follow me on LinkedIn [@fernandocalmet](https://www.linkedin.com/in/fernandocalmet/)
 
-### Main Skills
+<p align="center"> 
+  <strong>Main skills</strong>
+</p>
 
-<div align="left">
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/svg/java-original-wordmark.svg" alt="Java" height="50" />
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/svg/csharp-original.svg" alt="CSharp" height="50" />
-  <img style="margin: 10px" src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/svg/php-original.svg" alt="PHP" height="50" />
-</div>
+<p align="center">
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet core" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="https://java.com">
+    <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" height="60px" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://php.net">
+    <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" height="60px" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://angular.io">
+    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
+  </a>
+  <a href="">
+    <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
+  </a>   
+  <a href="https://www.github.com">
+    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
+  </a>
+  <a href="https://www.git.com">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
+  </a>
+</p>
+<br/>
+
+<p align="center">
+  <a href="#" alt="fernando's github stats"><img src="https://github-readme-stats.vercel.app/api?username=fernandocalmet" /></a>
+</p>
