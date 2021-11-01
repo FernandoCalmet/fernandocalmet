@@ -1,9 +1,22 @@
-# Hello 👋, my name is Fernando
+<h1 align="center">Hi there, I'm Fernando Calmet 👋</h1>
 
-![Profile views](https://gpvc.arturio.dev/fernandocalmet)
-[![https://github.com/fernandocalmet](https://img.shields.io/static/v1?label=Github&message=FernandoCalmet&color=orange?style=social&logo=github)](https://github.com/fernandocalmet)
-[![https://linkedin.com/in/fernandocalmet](https://img.shields.io/static/v1?label=LinkedIn&message=FernandoCalmet&color=blue?style=social&logo=linkedin)](https://linkedin.com/in/fernandocalmet)
-[![https://ko-fi.com/fernandocalmet](https://img.shields.io/static/v1?fernandocalmet&label=KoFi&message=FernandoCalmet&color=red?style=social&logo=ko-fi)](https://ko-fi.com/fernandocalmet)
+<p align="center"> 
+ <a href="https://ko-fi.com/fernandocalmet" alt="fernando's kofi">
+   <img src="https://img.shields.io/badge/-@fernandocalmet-%231DA1F2?style=flat-square&logo=twitter&logoColor=ff5f5f" />
+ </a>
+ <a href="https://github.com/fernandocalmet" alt="fernando's github">
+   <img src="https://img.shields.io/badge/-@fernandocalmet-%23181717?style=flat-square&logo=github" />
+ </a>
+ <a href="https://www.linkedin.com/in/fernandocalmet" alt="fernando's linkedin">
+   <img src="https://img.shields.io/badge/-fernandocalmet-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fernandocalmet" />
+ </a>
+ <a href="https://khanakat.com" alt="fernando's blog">
+   <img src="https://img.shields.io/badge/khanakat.com-brightgreen?style=flat-square" />
+ </a>
+ <a>
+   <img src="https://komarev.com/ghpvc/?username=fernandocalmet&color=ff69b4&style=flat-square" />
+ </a>
+</p>
 
 ## Self-learning software engineering through research & development
 
