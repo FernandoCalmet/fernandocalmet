@@ -18,9 +18,7 @@
  </a>
 </p>
 
-> I'am system engineer specializing in building Web Applications. I love building applications following Clean Architecture & SOLID principles.
-
-> <img src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/img/pixel-mona-heart.gif" width="24" height="24" href="https://github.com/fernandocalmet"> I'm passionate about learning and developing skills in software engineering.
+> <img src="https://raw.githubusercontent.com/FernandoCalmet/fernandocalmet/master/pixel-mona-heart.gif" width="24" height="24" href="https://github.com/fernandocalmet"> I'am system engineer specializing in building Web & Desktop Applications. I love building applications following Clean Architecture & SOLID principles.
 
 #### Trivia
 - 📝 I blog here: https://khanakat.com/
