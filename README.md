@@ -28,7 +28,10 @@
   <strong>Main skills</strong>
 </p>
 
-<p align="center">  
+<p align="center">
+  <a href="https://dotnet.microsoft.com/">
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
+  </a>
   <a href="https://dotnet.microsoft.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet core" style="vertical-align:top; margin:4px;">
   </a>
