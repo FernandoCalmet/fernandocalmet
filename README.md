@@ -28,28 +28,22 @@
   <strong>Main skills</strong>
 </p>
 
-<p align="center">
-  <a href="https://dotnet.microsoft.com/">
-    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg" alt="dotnet" style="vertical-align:top; margin:4px;">
-  </a>
+<p align="center">  
   <a href="https://dotnet.microsoft.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet core" style="vertical-align:top; margin:4px;">
+  </a>
+   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
+    <img src="https://cdn.cdnlogo.com/logos/c/70/csharp.svg" alt="csharp" height="60px" style="vertical-align:top; margin:4px;">
   </a>
   <a href="https://java.com">
     <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" height="60px" style="vertical-align:top; margin:4px">
   </a>
   <a href="https://php.net">
     <img src="https://www.vectorlogo.zone/logos/php/php-ar21.svg" alt="PHP" height="60px" style="vertical-align:top; margin:4px">
-  </a>
-  <a href="https://angular.io">
-    <img src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" alt="angular" style="vertical-align:top; margin:4px;">
-  </a>
+  </a> 
   <a href="">
     <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg" alt="typescript" style="vertical-align:top; margin:4px;">
-  </a>   
-  <a href="https://www.github.com">
-    <img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg" alt="github" style="vertical-align:top; margin:4px">
-  </a>
+  </a>  
   <a href="https://www.git.com">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="git-scm" style="vertical-align:top; margin:4px">
   </a>
