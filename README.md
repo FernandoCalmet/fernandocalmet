@@ -35,9 +35,12 @@
   <a href="https://dotnet.microsoft.com/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" height="60px" alt="dotnet core" style="vertical-align:top; margin:4px;">
   </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="Blazor" height="60px" style="vertical-align:top; margin:4px">
+  </a>
    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
     <img src="https://cdn.cdnlogo.com/logos/c/70/csharp.svg" alt="csharp" height="60px" style="vertical-align:top; margin:4px;">
-  </a>
+  </a>  
   <a href="https://java.com">
     <img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" alt="Java" height="60px" style="vertical-align:top; margin:4px">
   </a>
